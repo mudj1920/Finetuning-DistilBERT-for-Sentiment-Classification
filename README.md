@@ -1,4 +1,4 @@
-# Sentiment Analysis on SST-2 Using DistilBERT
+# Finetuning DistilBERT for sentiment classification
 
 ## Overview
 This project focuses on performing sentiment classification on the SST-2 dataset using the DistilBERT model. The objective is to accurately classify text snippets into positive or negative categories based on their sentiment.
